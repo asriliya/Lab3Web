@@ -38,6 +38,13 @@ Kelas   : TI.20.B1
   
   ![Screenshot(308).png](https://github.com/asriliya/Lab3Web/blob/main/Screnshot/Screenshot%20(308).png)
   
+## Pertanyaan dan Tugas
+1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+
+![Screenshot(330).png](https://github.com/asriliya/Lab3Web/blob/main/Screnshot/Screenshot%20(330).png)
+![Screenshot(331).png](https://github.com/asriliya/Lab3Web/blob/main/Screnshot/Screenshot%20(331).png)
+![Screenshot(329).png](https://github.com/asriliya/Lab3Web/blob/main/Screnshot/Screenshot%20(329).png)
+  
   
  
  # Sekian dari saya. Semoga Bermanfaat:)
